@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "fogogelovr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8792"], "port": 8792 }
+  ]
+}
